@@ -3,7 +3,7 @@ import requests
 import time
 
 # ==================== تنظیمات ====================
-TOKEN = '8674949577:AAFQ7VKrPFRs06lXe415etoDYOmSpRUh2Kw'
+TOKEN = '8674949577:AAGi5MLc9XCEfVwLiqaO0rdhqVxZ66hPPGc'
 SERVER_URL = 'https://license-server-cyi5.onrender.com'
 
 bot = telebot.TeleBot(TOKEN)
